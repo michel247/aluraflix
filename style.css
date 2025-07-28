@@ -8,3 +8,14 @@ body{
     font-size: 32 px;
     color: green;
  }
+ section {
+     backgroud: rgb(114, 9, 227);
+     padding-botton: 80px;
+     padding-top: 80px;
+     display: flex;
+     justify-content: center;
+ }
+
+ .chamada-texto{
+     margin-right: 5%;
+ }
